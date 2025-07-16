@@ -1,5 +1,4 @@
 fun main() {
-
     val s = "abcabccbb"
     val s2 = "bbbbb"
     val s3 = "pwwkew"
